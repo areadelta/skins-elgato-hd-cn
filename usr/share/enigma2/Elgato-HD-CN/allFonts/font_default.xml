@@ -1,0 +1,12 @@
+<skin>
+  <fonts>
+    <font filename="/usr/share/enigma2/Elgato-HD-CN/fonts/nmsbdha.ttf" name="Regular" scale="94" />
+    <font filename="/usr/share/enigma2/Elgato-HD-CN/fonts/nmsbdh.ttf" name="Italik" scale="92" />
+    <font filename="/usr/share/fonts/nmsbd.ttf" name="Emu" scale="100" />
+    <font filename="/usr/share/fonts/nmsbd.ttf" name="Menu" scale="102" />
+    <font filename="/usr/share/fonts/ae_AlMateen.ttf" name="Replacement" scale="90" replacement="1" />
+    <font filename="/usr/share/fonts/lcd.ttf" name="LCD" scale="100" />
+    <font filename="/usr/share/fonts/tuxtxt.ttf" name="Console" scale="100" />
+    <font filename="/usr/share/enigma2/Elgato-HD-CN/fonts/nmsbdha.ttf" name="Display" scale="90" />
+  </fonts>
+</skin>
